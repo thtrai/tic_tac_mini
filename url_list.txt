@@ -4,3 +4,7 @@ https://py2.codeskulptor.org/#user48_ZtTCg2nrqX_28.py ### score 86%
 https://py2.codeskulptor.org/#user48_9GGo4vl9LK_0.py  ### new branch from 86%
 https://py2.codeskulptor.org/#user48_MVOqdtlBvw_0.py  ### new branch from 86%
 
+
+
+https://py2.codeskulptor.org/#user48_MVOqdtlBvw_5.py  ### 100%, finally
+
