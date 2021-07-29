@@ -6,5 +6,8 @@ https://py2.codeskulptor.org/#user48_MVOqdtlBvw_0.py  ### new branch from 86%
 
 
 
+
 https://py2.codeskulptor.org/#user48_MVOqdtlBvw_5.py  ### 100%, finally
+https://py2.codeskulptor.org/#user48_MVOqdtlBvw_6.py  ### This is faster
+
 
